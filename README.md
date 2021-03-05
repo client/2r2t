@@ -4,4 +4,4 @@ Please put issues and bus under the BUG tag.
 Please put suggestions/new features under ENHANCEMENTS tag.
 
 DEVELOPERS
-@client, @gamesgamer, @Titaniix
+@client, @gamesgamer, @Titaniix, @VNFive
